@@ -3,3 +3,4 @@ pine
 Arborvitae
 Black Ash
 White Ash
+Bigtooth Aspen
